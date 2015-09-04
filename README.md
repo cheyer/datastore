@@ -13,3 +13,5 @@ Functionalities for later versions:
 -REST API
 -more nodes
 -sharding
+-task queue
+-worker queue
